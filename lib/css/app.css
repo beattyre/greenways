@@ -1,0 +1,15 @@
+html, body, #sidebar, #container{
+	height: 100%;
+	margin: 0px!important;
+}
+
+#sidebar{
+	background-color: blue;
+	padding: 3em;
+	opacity: .6;
+}
+
+#mapDiv{
+	height: 100%;
+	background-color: red;
+}
