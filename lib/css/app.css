@@ -13,3 +13,8 @@ html, body, #sidebar, #container{
 	height: 100%;
 	background-color: red;
 }
+
+#transparent{
+	background-color: white;
+	opacity: .05;
+}
